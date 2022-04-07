@@ -1,0 +1,126 @@
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\appsettings.Development.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\appsettings.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.exe
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.deps.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\ref\MVC.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\MVC.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\staticwebassets.build.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\staticwebassets.development.json
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\ref\MVC.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.pdb
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Humanizer.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\dotnet-ef.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\all desktop files\BE_3\SS\.NET Technologies\practical\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\appsettings.Development.json
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\appsettings.json
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.exe
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.deps.json
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.runtimeconfig.json
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\ref\MVC.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\MVC.pdb
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Humanizer.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\dotnet-ef.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.csproj.CopyComplete
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\ref\MVC.dll
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.pdb
+D:\mvc_webapp1-main\mvc_webapp1-main\obj\Debug\net6.0\MVC.genruntimeconfig.cache
